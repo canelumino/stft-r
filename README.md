@@ -4,6 +4,9 @@ Requirements:
 - numpy, torch
 - A working UTAU/OpenUtau resampler (e.g. doppeltler)
 - OpenUtau (required)
+
+SEE WIKI FOR INSTALL GUIDE.
+
 Hear it in action.
 
 
