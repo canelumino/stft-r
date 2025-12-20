@@ -1,0 +1,14 @@
+{
+  "real_resampler": "V:/doppeltler64.exe",
+  "log_file": "C:/Users/bali1/Documents/OpenUtau/timbre_wrapper_stft_log.txt",
+  "device": "cpu",
+  "strength": 0.6,
+  "rms_match": true,
+  "n_fft": 1024,
+  "hop": 256,
+  "win": 1024,
+  "base": 32,
+  "model_root": "V:/DATASET_OUT/models/stft_timbre",
+  "model_bank": "Merry",
+  "model_file": "best.pt"
+}
