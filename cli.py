@@ -6,7 +6,7 @@ import re
 from dataclasses import dataclass, asdict
 from typing import Dict, Any, List, Tuple, Optional
 
-# ---- dependencies check (friendly) ----
+
 def require(mod: str) -> bool:
     try:
         __import__(mod)
